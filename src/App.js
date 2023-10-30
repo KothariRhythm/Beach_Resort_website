@@ -1,6 +1,6 @@
 import './App.css';
-import React, { useRef } from 'react';
-import { Route, Routes, matchPath } from 'react-router-dom'
+import React from 'react';
+import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home';
 import Rooms from './pages/Rooms';
 import SingleRoom from './pages/SingleRoom';
